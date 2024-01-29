@@ -20,10 +20,10 @@ Clone the repository:
    git clone https://github.com/biplove100/responsive-shoes-store.git
 ```
 
-Customization
+Customization :
 Feel free to customize the project to suit your preferences. Add your own products, modify the design, or enhance functionality as needed.
 
-Technologies Used
+Technologies Used :
 HTML
 CSS
 JavaScript
@@ -35,5 +35,5 @@ WOW.js
 Font Awesome
 Google Fonts
 
-License
+License :
 This project is licensed under the MIT License.   
