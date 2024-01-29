@@ -18,6 +18,7 @@ To explore the Shoes Store locally, follow these steps:
 Clone the repository:
    ```bash
    git clone https://github.com/biplove100/responsive-shoes-store.git
+```bash
 
 Customization
 Feel free to customize the project to suit your preferences. Add your own products, modify the design, or enhance functionality as needed.
